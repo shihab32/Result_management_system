@@ -1,0 +1,14 @@
+Admin Logins
+url: 127.0.0.1:8000/lecturer/admin
+email: admin1@gmail.com password: 12345
+
+Lecturer Logins
+url: 127.0.0.1:8000/lecturer
+email: estiaksazid@gmail.com password: 12345
+
+Student Logins
+url: 127.0.0.1:8000
+
+matric no: CSC/2371/001 password: 12345
+matric no: ACC/2362/001 password: 12345
+matric no: CSC/2471/002 password: 12345
